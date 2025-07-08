@@ -175,6 +175,7 @@ Copy the provided `.env.example` files into actual `.env` files before running t
 ```bash
 cp client/.env.example client/.env
 cp server/.env.example server/.env
+```
 
 
 ### Server
